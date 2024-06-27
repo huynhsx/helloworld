@@ -24,6 +24,11 @@ Hello, World!
 => nil
 ```
 
+or you can build and start the Docker container in one command:
+```bash
+$ make all
+```
+
 ### Stop the Docker Container
 To stop the Docker container, run:
 ```bash
